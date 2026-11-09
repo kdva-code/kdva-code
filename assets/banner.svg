@@ -1,0 +1,27 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="180" y1="90" x2="1110" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="420" rx="32" fill="url(#bg)"/>
+  <g opacity="0.18">
+    <circle cx="124" cy="94" r="120" fill="#22D3EE"/>
+    <circle cx="1032" cy="300" r="150" fill="#8B5CF6"/>
+    <circle cx="1188" cy="92" r="90" fill="#F472B6"/>
+  </g>
+  <path d="M138 238L280 116L348 182L250 238L348 294L280 360L138 238Z" fill="url(#line)"/>
+  <path d="M492 104H636L696 258L636 316H492L432 258L492 104Z" fill="url(#line)" opacity="0.92"/>
+  <path d="M742 122H846L918 260L846 298H742L670 260L742 122Z" fill="#E2E8F0" fill-opacity="0.16"/>
+  <path d="M912 116H1062L1144 210L1062 304H912L830 210L912 116Z" fill="url(#line)"/>
+  <text x="120" y="190" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">kdva-code</text>
+  <text x="120" y="248" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="28">code • create • improve</text>
+  <rect x="120" y="272" width="210" height="54" rx="27" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.9"/>
+  <text x="155" y="307" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">developer</text>
+</svg>
