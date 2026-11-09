@@ -53,11 +53,6 @@ Salom! Men `kdva-code`man. Kod yozishni, mahsulot yaratishni va o'rganishni yaxs
   <img src="https://github-readme-stats.vercel.app/api?username=kdva-code&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
-## Aloqa
-
-- GitHub: [@kdva-code](https://github.com/kdva-code)
-- Email: yozing yoki profilga qo'shgan aloqa ma'lumotlarini tekshiring
-
 ## Fikrlar
 
 > “Yaxshi kod — bu faqat ishlaydigan kod emas, balki tushunarli, oson kengaytiriladigan va saqlanadigan koddir.”
